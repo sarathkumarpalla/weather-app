@@ -163,7 +163,7 @@ const App = () => {
 
         {/* Footer */}
         <footer className="w-full text-center py-8 text-slate-500 dark:text-slate-500 text-sm font-medium">
-          <p>© {new Date().getFullYear()} WeatherApp Premium • Frontend Portfolio Pro</p>
+          <p>© {new Date().getFullYear()} WeatherApp Premium</p>
           <p className="mt-1 text-xs opacity-60">Powered by Open-Meteo API</p>
         </footer>
       </div>
